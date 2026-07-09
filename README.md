@@ -1,6 +1,6 @@
 # CraneAutoclicker
 
-this project was made by crane
+this project was made by cr9ne
 
 please do NOT delete, move, or rename any files inside this download and folders inside.
 if you do, things may stop working or the program may break.
@@ -9,7 +9,7 @@ this project relies on its file structure being exactly the same as provided.
 
 credits
 
-made by: crane
+made by: cr9ne
 youtube: cr9ne
 
 warning
